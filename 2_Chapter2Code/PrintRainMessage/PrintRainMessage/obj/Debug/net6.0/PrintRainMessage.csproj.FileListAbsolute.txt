@@ -1,0 +1,30 @@
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.exe
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.deps.json
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.runtimeconfig.json
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.dll
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.pdb
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.csproj.AssemblyReference.cache
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.AssemblyInfoInputs.cache
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.AssemblyInfo.cs
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.csproj.CoreCompileInputs.cache
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.dll
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\refint\PrintRainMessage.dll
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.pdb
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.genruntimeconfig.cache
+C:\Users\timch\source\repos\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\ref\PrintRainMessage.dll
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.exe
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.deps.json
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.runtimeconfig.json
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.dll
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\bin\Debug\net6.0\PrintRainMessage.pdb
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.csproj.AssemblyReference.cache
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.AssemblyInfoInputs.cache
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.AssemblyInfo.cs
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.csproj.CoreCompileInputs.cache
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.dll
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\refint\PrintRainMessage.dll
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.pdb
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\PrintRainMessage.genruntimeconfig.cache
+C:\Dropbox\Books\Book C# Unity\Visual Studio\Chapter 2 Starting to Code\Chapter2Code\PrintRainMessage\PrintRainMessage\obj\Debug\net6.0\ref\PrintRainMessage.dll
