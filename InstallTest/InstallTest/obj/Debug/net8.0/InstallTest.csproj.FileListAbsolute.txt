@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\bin\Debug\net8.0\InstallTest.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\bin\Debug\net8.0\InstallTest.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\bin\Debug\net8.0\InstallTest.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\bin\Debug\net8.0\InstallTest.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\bin\Debug\net8.0\InstallTest.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\refint\InstallTest.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\InstallTest.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\InstallTest\InstallTest\obj\Debug\net8.0\ref\InstallTest.dll
