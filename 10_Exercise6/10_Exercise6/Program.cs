@@ -6,10 +6,10 @@
         static void Main(string[] args)
         {
             float angle;
-            System.Console.Write("Enter the angle: ");
-            angle = float.Parse(System.Console.ReadLine());
-            System.Console.WriteLine("Cosine: " + System.Math.Cos(angle * (float)Math.PI / 180));
-            System.Console.WriteLine("Sine: " + System.Math.Sin(angle * (float)Math.PI / 180));
+            Console.Write("Enter the angle: ");
+            angle = float.Parse(Console.ReadLine());
+            Console.WriteLine("Cosine: " + Math.Cos(angle * (float)Math.PI / 180));
+            Console.WriteLine("Sine: " + Math.Sin(angle * (float)Math.PI / 180));
         }
     }
 }
