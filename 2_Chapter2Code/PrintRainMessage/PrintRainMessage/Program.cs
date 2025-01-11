@@ -9,12 +9,12 @@ namespace PrintRainMessage
     internal class Program
     {
         /// <summary>
-        /// Prints a rain message
+        /// First Console Application lecture code
         /// </summary>
         /// <param name="args">command-line args</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world");
+            Console.WriteLine("Hello, n00b");
             Console.WriteLine("Chinese Democracy is done and it's November");
             Console.WriteLine("Is it raining?");
             Console.WriteLine();

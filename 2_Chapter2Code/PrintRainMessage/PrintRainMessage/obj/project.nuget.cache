@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JsR69dA70e07NsrMnIZV2ozC/IG4NZSqa/SIFflUDJLbhnlzgvkluAcR7Y1whKb8Y88VgQjhEsvVw6cEv2TrYA==",
+  "dgSpecHash": "Lw4cqgHHXxU=",
   "success": true,
-  "projectFilePath": "C:\\Dropbox\\Books\\Book C# Unity\\Visual Studio\\Chapter 2 Starting to Code\\Chapter2Code\\PrintRainMessage\\PrintRainMessage\\PrintRainMessage.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\2_Chapter2Code\\PrintRainMessage\\PrintRainMessage\\PrintRainMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
