@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\bin\Debug\net8.0\9_ReadingDocumentation.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\bin\Debug\net8.0\9_ReadingDocumentation.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\bin\Debug\net8.0\9_ReadingDocumentation.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\bin\Debug\net8.0\9_ReadingDocumentation.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\bin\Debug\net8.0\9_ReadingDocumentation.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\refint\9_ReadingDocumentation.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\9_ReadingDocumentation.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\9_ReadingDocumentation\9_ReadingDocumentation\obj\Debug\net8.0\ref\9_ReadingDocumentation.dll

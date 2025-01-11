@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\bin\Debug\net8.0\7_FloatDataTypes.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\bin\Debug\net8.0\7_FloatDataTypes.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\bin\Debug\net8.0\7_FloatDataTypes.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\bin\Debug\net8.0\7_FloatDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\bin\Debug\net8.0\7_FloatDataTypes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\refint\7_FloatDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\7_FloatDataTypes.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\7_FloatDataTypes\7_FloatDataTypes\obj\Debug\net8.0\ref\7_FloatDataTypes.dll
