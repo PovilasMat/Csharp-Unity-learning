@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj": {}
+    "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\6_IntegerDataTypes\\6_IntegerDataTypes\\6_IntegerDataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj": {
+    "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\6_IntegerDataTypes\\6_IntegerDataTypes\\6_IntegerDataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
-        "projectName": "ProgrammingAssignment1",
-        "projectPath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\6_IntegerDataTypes\\6_IntegerDataTypes\\6_IntegerDataTypes.csproj",
+        "projectName": "6_IntegerDataTypes",
+        "projectPath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\6_IntegerDataTypes\\6_IntegerDataTypes\\6_IntegerDataTypes.csproj",
         "packagesPath": "C:\\Users\\Povilas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\obj\\",
+        "outputPath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\6_IntegerDataTypes\\6_IntegerDataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,30 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,8 +26,16 @@ namespace ProgrammingAssignment1
                 // and the comment below. You can of
                 // course add more space between the
                 // comments as needed
-
-
+                Console.WriteLine("H");
+                Console.WriteLine("He");
+                Console.WriteLine("Li");
+                Console.WriteLine("Be");
+                Console.WriteLine("B");
+                Console.WriteLine("C");
+                Console.WriteLine("N");
+                Console.WriteLine("O");
+                Console.WriteLine("F");
+                Console.WriteLine("Ne");
 
                 // Don't add or modify any code below
                 // this comment

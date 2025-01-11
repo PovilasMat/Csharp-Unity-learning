@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\bin\Debug\net8.0\6_IntegerDataTypes.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\bin\Debug\net8.0\6_IntegerDataTypes.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\bin\Debug\net8.0\6_IntegerDataTypes.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\bin\Debug\net8.0\6_IntegerDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\bin\Debug\net8.0\6_IntegerDataTypes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\refint\6_IntegerDataTypes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\6_IntegerDataTypes.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\6_IntegerDataTypes\6_IntegerDataTypes\obj\Debug\net8.0\ref\6_IntegerDataTypes.dll

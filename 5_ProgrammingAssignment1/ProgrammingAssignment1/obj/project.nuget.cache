@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qL3uCMcYa+AsM9GQ1+rtCyiiZqXyO+AN6XkYG96iweIWHBq308rCVUr6jEYfnNlMuPp5bIGQ+xJuUrTDkVLopQ==",
+  "dgSpecHash": "L6TWfmX/G80=",
   "success": true,
-  "projectFilePath": "D:\\Dropbox\\Coursera C# Unity\\1 Intro C# Prog Unity\\Module 1 Starting to Program\\ProgrammingAssignment1\\materials\\ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Povilas\\Documents\\GitHub\\Csharp-Unity-learning\\5_ProgrammingAssignment1\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Povilas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
