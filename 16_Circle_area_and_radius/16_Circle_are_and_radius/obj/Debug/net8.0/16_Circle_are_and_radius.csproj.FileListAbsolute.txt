@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\bin\Debug\net8.0\16_Circle_are_and_radius.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\bin\Debug\net8.0\16_Circle_are_and_radius.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\bin\Debug\net8.0\16_Circle_are_and_radius.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\bin\Debug\net8.0\16_Circle_are_and_radius.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\bin\Debug\net8.0\16_Circle_are_and_radius.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\refint\16_Circle_are_and_radius.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\16_Circle_are_and_radius.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\16_Circle_are_and_radius\16_Circle_are_and_radius\obj\Debug\net8.0\ref\16_Circle_are_and_radius.dll
