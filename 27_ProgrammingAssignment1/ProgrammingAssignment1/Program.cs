@@ -32,8 +32,29 @@ namespace ProgrammingAssignment1
                 // and the comment below. You can of
                 // course add more space between the
                 // comments as needed
+                if (number % 2 == 0)
+                {
+                    Console.Write("e");
+                }
+                else
+                {
+                    Console.Write("o");
+                }
+                Console.Write(" ");
 
-               
+                if (number < 0)
+                {
+                    Console.WriteLine("-1");
+                }
+                else if (number == 0)
+                {
+                    Console.WriteLine("0");
+                }
+                else
+                {
+                    Console.WriteLine("1");
+                }
+
 
                 // Don't add or modify any code below
                 // this comment
