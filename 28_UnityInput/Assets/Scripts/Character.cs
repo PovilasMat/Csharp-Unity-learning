@@ -6,6 +6,9 @@ public class Character : MonoBehaviour
     float colliderHalfWidth;
     float colliderHalfHeight;
 
+    // movememnt support
+    const float MoveUnitsPerSecond = 5;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,9 +21,20 @@ public class Character : MonoBehaviour
     void Update()
     {
         // convert mouse position to world position
-        Vector3 position = Input.mousePosition;
-        position.z = -Camera.main.transform.position.z;
-        position = Camera.main.ScreenToWorldPoint(position);
+        //Vector3 position = Input.mousePosition;
+        //position.z = -Camera.main.transform.position.z;
+        //position = Camera.main.ScreenToWorldPoint(position);
+        Vector3 position = transform.position;
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        if (horizontalInput != 0)
+        {
+            position.x += horizontalInput * MoveUnitsPerSecond * Time.deltaTime;
+        }
+        if (verticalInput != 0)
+        {
+            position.y += verticalInput * MoveUnitsPerSecond * Time.deltaTime;
+        }
 
         // move character
         transform.position = position;
