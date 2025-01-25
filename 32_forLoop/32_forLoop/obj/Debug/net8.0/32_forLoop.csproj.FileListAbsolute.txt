@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\bin\Debug\net8.0\32_forLoop.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\bin\Debug\net8.0\32_forLoop.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\bin\Debug\net8.0\32_forLoop.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\bin\Debug\net8.0\32_forLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\bin\Debug\net8.0\32_forLoop.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\refint\32_forLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\32_forLoop.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\32_forLoop\32_forLoop\obj\Debug\net8.0\ref\32_forLoop.dll
