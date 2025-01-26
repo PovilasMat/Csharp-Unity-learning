@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\bin\Debug\net8.0\33_nestedForLoop.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\bin\Debug\net8.0\33_nestedForLoop.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\bin\Debug\net8.0\33_nestedForLoop.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\bin\Debug\net8.0\33_nestedForLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\bin\Debug\net8.0\33_nestedForLoop.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\refint\33_nestedForLoop.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\33_nestedForLoop.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\33_nestedForLoop\33_nestedForLoop\obj\Debug\net8.0\ref\33_nestedForLoop.dll
