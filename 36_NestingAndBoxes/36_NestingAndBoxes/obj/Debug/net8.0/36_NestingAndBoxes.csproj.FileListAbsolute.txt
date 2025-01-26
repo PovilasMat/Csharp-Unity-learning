@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\bin\Debug\net8.0\36_NestingAndBoxes.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\bin\Debug\net8.0\36_NestingAndBoxes.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\bin\Debug\net8.0\36_NestingAndBoxes.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\bin\Debug\net8.0\36_NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\bin\Debug\net8.0\36_NestingAndBoxes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\refint\36_NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\36_NestingAndBoxes.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\36_NestingAndBoxes\36_NestingAndBoxes\obj\Debug\net8.0\ref\36_NestingAndBoxes.dll
