@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\bin\Debug\net8.0\35_Exercise10.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\bin\Debug\net8.0\35_Exercise10.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\bin\Debug\net8.0\35_Exercise10.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\bin\Debug\net8.0\35_Exercise10.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\bin\Debug\net8.0\35_Exercise10.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\refint\35_Exercise10.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\35_Exercise10.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\35_Exercise10\35_Exercise10\obj\Debug\net8.0\ref\35_Exercise10.dll

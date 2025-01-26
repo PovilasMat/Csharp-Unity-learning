@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\bin\Debug\net8.0\34_whileLoops.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\bin\Debug\net8.0\34_whileLoops.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\bin\Debug\net8.0\34_whileLoops.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\bin\Debug\net8.0\34_whileLoops.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\bin\Debug\net8.0\34_whileLoops.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\refint\34_whileLoops.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\34_whileLoops.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\34_whileLoops\34_whileLoops\obj\Debug\net8.0\ref\34_whileLoops.dll
