@@ -1,0 +1,5 @@
+C:\Users\timch\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.AssemblyReference.cache
+C:\Users\timch\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timch\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\timch\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+C:\Users\timch\source\repos\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
