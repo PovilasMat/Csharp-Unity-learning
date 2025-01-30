@@ -25,9 +25,9 @@ namespace ForLoops
             hand.Add(deck.TakeTopCard());
 
             // print out the cards in the hand
-            for (int i = 0; i < hand.Count; i++)
+            foreach (Card card in hand)
             {
-                Console.WriteLine(hand[i].Rank + " of " + hand[i].Suit);
+                Console.WriteLine(card.Rank + " of " + card.Suit);
             }
 
             // add five more cards to hand
