@@ -7,7 +7,8 @@ using UnityEngine;
 /// </summary>
 public class CharacterChanger : MonoBehaviour
 {
-    GameObject[] prefabCharacters = new GameObject[4];
+    //GameObject[] prefabCharacters = new GameObject[4];
+    List<GameObject> prefabCharacters = new List<GameObject>();
 
     // need for location of new character
     GameObject currentCharacter;
@@ -21,10 +22,16 @@ public class CharacterChanger : MonoBehaviour
     void Start()
     {
         // populate character prefab array
-        prefabCharacters[0] = Resources.Load<GameObject>(@"Prefabs\HunterMan");
-        prefabCharacters[1] = Resources.Load<GameObject>("Prefabs/MinerMan");
-        prefabCharacters[2] = Resources.Load<GameObject>("Prefabs/PioneerWoman");
-        prefabCharacters[3] = Resources.Load<GameObject>("Prefabs/SkunkWoman");
+        //prefabCharacters[0] = Resources.Load<GameObject>(@"Prefabs\HunterMan");
+        //prefabCharacters[1] = Resources.Load<GameObject>("Prefabs/MinerMan");
+        //prefabCharacters[2] = Resources.Load<GameObject>("Prefabs/PioneerWoman");
+        //prefabCharacters[3] = Resources.Load<GameObject>("Prefabs/SkunkWoman");
+
+        //populate character prefab list
+        prefabCharacters.Add(Resources.Load<GameObject>(@"Prefabs\HunterMan"));
+        prefabCharacters.Add(Resources.Load<GameObject>("Prefabs/MinerMan"));
+        prefabCharacters.Add(Resources.Load<GameObject>("Prefabs/PioneerWoman"));
+        prefabCharacters.Add(Resources.Load<GameObject>("Prefabs/SkunkWoman"));
 
         currentCharacter = Instantiate<GameObject>(
             prefabCharacters[0], Vector3.zero,
