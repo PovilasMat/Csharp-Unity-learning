@@ -1,0 +1,6 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.csproj.AssemblyReference.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\45_Exercise14\45_Exercise14\obj\Debug\net8.0\45_Exercise14.sourcelink.json
