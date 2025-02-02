@@ -6,7 +6,24 @@ namespace _45_Exercise14
     {
         static void Main(string[] args)
         {
-            Card[] cards = new Card[5];
+            Deck deck = new Deck();
+            List<Card> hand = new List<Card>();
+            deck.Shuffle();
+
+            for (int i = 0; i < 5; i++)
+            {
+                hand.Add(deck.TakeTopCard());
+            }
+
+            foreach (Card card in hand)
+            {
+                card.FlipOver();
+            }
+
+            foreach (Card card in hand)
+            {
+                card.Print();
+            }
         }
     }
 }
