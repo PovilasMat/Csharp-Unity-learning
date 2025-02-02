@@ -60,7 +60,7 @@ public class TeddyBear : MonoBehaviour
         {
 			// remove collected pickup from game and go to the next one
 			tedTheCollector.RemovePickup(targetPickup);
-			rb2d.velocity = Vector2.zero;
+			rb2d.linearVelocity = Vector2.zero;
 			GoToNextPickup();
 		}
 	}
