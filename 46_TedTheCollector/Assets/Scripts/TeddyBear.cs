@@ -44,7 +44,8 @@ public class TeddyBear : MonoBehaviour
 		// ignore mouse clicks if already collecting
 		if (!collecting)
         {
-			GoToNextPickup();
+            collecting = true;
+            GoToNextPickup();
 		}
 	}
 
@@ -65,23 +66,91 @@ public class TeddyBear : MonoBehaviour
 		}
 	}
 
-	/// <summary>
-	/// Starts the teddy bear moving toward the next pickup
-	/// </summary>
-	void GoToNextPickup()
+    public void UpdateTarget(GameObject pickup)
     {
-		// calculate direction to target pickup and start moving toward it
-		targetPickup = tedTheCollector.TargetPickup;
-		if (targetPickup != null)
-        {
-			Vector2 direction = new Vector2(
-				targetPickup.transform.position.x - transform.position.x,
-				targetPickup.transform.position.y - transform.position.y);
-			direction.Normalize();
-			rb2d.AddForce(direction * ImpulseForceMagnitude, 
-				ForceMode2D.Impulse);
+		if (targetPickup == null)
+		{
+			SetTarget(pickup);
+		}
+		else
+		{
+			float targetDistance = GetDistance(targetPickup);
+			if (GetDistance(pickup) < targetDistance)
+			{
+				SetTarget(pickup);
+			}
+		}
+    }
+
+	float GetDistance(GameObject pickup)
+	{
+		return Vector3.Distance(transform.position, pickup.transform.position);
+	}
+
+
+	void SetTarget(GameObject pickup)
+	{
+		targetPickup = pickup;
+		if (collecting)
+		{
+			GoToTargetPickup();
 		}
 	}
 
+	void GoToTargetPickup()
+    {
+		// calculate direction to target pickup and start moving toward it
+		Vector2 direction = new Vector2(
+			targetPickup.transform.position.x - transform.position.x,
+			targetPickup.transform.position.y - transform.position.y);
+		direction.Normalize();
+		rb2d.linearVelocity = Vector2.zero;
+		rb2d.AddForce(direction * ImpulseForceMagnitude,
+			ForceMode2D.Impulse);
+    }
+        /// <summary>
+        /// Starts the teddy bear moving toward the next pickup
+        /// </summary>
+    void GoToNextPickup()
+    {
+		// calculate direction to target pickup and start moving toward it
+		targetPickup = GetClosestPickUp();
+		if (targetPickup != null)
+		{
+            GoToTargetPickup();
+        }
+		else
+		{
+			collecting = false;
+		}
+	}
+
+	GameObject GetClosestPickUp()
+	{
+		// initial setup
+		List<GameObject> pickups = tedTheCollector.Pickups;
+		GameObject closestPickup;
+		float closestDistance;
+		if (pickups.Count == 0)
+		{
+			return null;
+		}
+		else
+		{
+			closestPickup = pickups[0];
+			closestDistance = GetDistance(closestPickup);
+		}
+
+		foreach (GameObject pickup in pickups)
+		{
+			float distance = GetDistance(pickup);
+			if (distance < closestDistance)
+			{
+				closestPickup = pickup;
+				closestDistance = distance;
+			}
+		}
+		return closestPickup;
+	}
 	#endregion
 }

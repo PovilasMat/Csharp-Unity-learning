@@ -11,34 +11,26 @@ public class TedTheCollector : MonoBehaviour
 
 	[SerializeField]
 	GameObject prefabPickup;
+
+	TeddyBear teddyBear;
 	List<GameObject> pickups = new List<GameObject>();
 
 	#endregion
 
 	#region Properties
-
-	/// <summary>
-	/// Gets the next target pickup for the teddy bear to collect
-	/// </summary>
-	/// <value>target pickup</value>
-	public GameObject TargetPickup
+	public List<GameObject> Pickups
     {
-		get 
-		{
-			if (pickups.Count > 0)
-            {
-				return pickups[0]; 
-			}
-            else
-            {
-				return null;
-			}
-		}
-	}
+        get { return pickups; }
+    }
 
     #endregion
 
     #region Methods
+    private void Start()
+    {
+		GameObject teddyBearGameObject = GameObject.FindWithTag("TeddyBear");
+        teddyBear = teddyBearGameObject.GetComponent<TeddyBear>();
+    }
 
     /// <summary>
     /// Update is called once per frame
@@ -57,7 +49,9 @@ public class TedTheCollector : MonoBehaviour
 			GameObject pickup = Instantiate<GameObject>(prefabPickup);
 			pickup.transform.position = worldPosition;
 			pickups.Add(pickup);
-		}
+
+			teddyBear.UpdateTarget(pickup);
+        }
 	}
 
 	/// <summary>
