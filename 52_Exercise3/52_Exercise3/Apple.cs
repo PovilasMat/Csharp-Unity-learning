@@ -15,6 +15,30 @@ namespace _52_Exercise3
 
         #endregion
 
+        /// <summary>
+        /// Constructor for the Apple class
+        /// </summary>
+        /// <param name="amountLeft"></param>
+        /// <param name="organic"></param>
+        #region Constructors
+
+        /// <summary>
+        /// Constructor for the Apple class with specific amount left
+        /// </summary>
+        /// <param name="amountLeft">the ratio of an apple that's left</param>
+        /// <param name="organic"></param>
+        public Apple(float amountLeft, bool organic)
+        {
+            this.amountLeft = amountLeft;
+            this.organic = organic;
+        }
+
+        public Apple(bool organic) : this(1.0F, organic)
+        {
+            this.organic = organic;
+        }
+        #endregion
+
         #region Properties
 
         /// <summary>
