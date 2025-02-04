@@ -57,4 +57,14 @@ public class Ship : MonoBehaviour
                 ForceMode2D.Force);
         }
     }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        DestroyShip();
+    }
+
+    void DestroyShip()
+    {
+        Destroy(gameObject);
+    }
 }
