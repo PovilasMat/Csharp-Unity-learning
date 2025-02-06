@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\bin\Debug\net8.0\NestingAndBoxes.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\bin\Debug\net8.0\NestingAndBoxes.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\bin\Debug\net8.0\NestingAndBoxes.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\bin\Debug\net8.0\NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\bin\Debug\net8.0\NestingAndBoxes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\refint\NestingAndBoxes.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\NestingAndBoxes.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\55_NestingAndBoxes\NestingAndBoxes\obj\Debug\net8.0\ref\NestingAndBoxes.dll
