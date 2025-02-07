@@ -42,7 +42,7 @@ public class Bullet : MonoBehaviour
     {
         const float forceMagnitude = 3;
         GetComponent<Rigidbody2D>().AddForce(
-            forceMagnitude * forceDirection,
+            forceMagnitude * forceDirection * 2,
             ForceMode2D.Impulse);
     }
 }

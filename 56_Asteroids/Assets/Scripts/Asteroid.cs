@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 /// <summary>
 /// An asteroid
@@ -66,15 +67,7 @@ public class Asteroid : MonoBehaviour
             angle = -15 * Mathf.Deg2Rad + randomAngle;
         }
 
-        // apply impulse force to get asteroid moving
-        const float MinImpulseForce = 1f;
-        const float MaxImpulseForce = 3f;
-        Vector2 moveDirection = new Vector2(
-            Mathf.Cos(angle), Mathf.Sin(angle));
-        float magnitude = Random.Range(MinImpulseForce, MaxImpulseForce);
-        GetComponent<Rigidbody2D>().AddForce(
-            moveDirection * magnitude,
-            ForceMode2D.Impulse);
+        StartMoving(angle);
     }
 
     /// <summary>
@@ -86,7 +79,41 @@ public class Asteroid : MonoBehaviour
         if (coll.gameObject.CompareTag("Bullet"))
         {
             Destroy(coll.gameObject);
-            Destroy(gameObject);
+            //Destroy(gameObject);
+            // reduce the scale of the asteroid
+            Vector2 currentScale = transform.localScale;
+            if (currentScale.x <= 0.25f)
+            {
+                Destroy(gameObject);
+            }
+            else
+            {
+                
+                currentScale.x *= 0.5f;
+                currentScale.y *= 0.5f;
+                GameObject halfAsteroid = Instantiate(gameObject);
+                halfAsteroid.GetComponent<CircleCollider2D>().radius *= 0.5f;
+                halfAsteroid.transform.localScale = currentScale;
+                GameObject halfAsteroid2 = Instantiate(gameObject);
+                halfAsteroid2.GetComponent<CircleCollider2D>().radius *= 0.5f;
+                halfAsteroid2.transform.localScale = currentScale;
+                Destroy(gameObject);
+                //transform.localScale = currentScale; // example scale reduction
+                //gameObject.GetComponent<CircleCollider2D>().radius *= 0.5f;
+            }
         }
+    }
+
+    public void StartMoving(float angle)
+    {
+        // apply impulse force to get asteroid moving
+        const float MinImpulseForce = 1f;
+        const float MaxImpulseForce = 3f;
+        Vector2 moveDirection = new Vector2(
+            Mathf.Cos(angle), Mathf.Sin(angle));
+        float magnitude = Random.Range(MinImpulseForce, MaxImpulseForce);
+        GetComponent<Rigidbody2D>().AddForce(
+            moveDirection * magnitude,
+            ForceMode2D.Impulse);
     }
 }
