@@ -92,11 +92,14 @@ public class Asteroid : MonoBehaviour
                 currentScale.x *= 0.5f;
                 currentScale.y *= 0.5f;
                 GameObject halfAsteroid = Instantiate(gameObject);
+                float randomAngle = Random.Range(0, 2 * Mathf.PI);
                 halfAsteroid.GetComponent<CircleCollider2D>().radius *= 0.5f;
                 halfAsteroid.transform.localScale = currentScale;
+                halfAsteroid.GetComponent<Asteroid>().StartMoving(randomAngle);
                 GameObject halfAsteroid2 = Instantiate(gameObject);
                 halfAsteroid2.GetComponent<CircleCollider2D>().radius *= 0.5f;
                 halfAsteroid2.transform.localScale = currentScale;
+                halfAsteroid2.GetComponent<Asteroid>().StartMoving(2 * Mathf.PI - randomAngle);
                 Destroy(gameObject);
                 //transform.localScale = currentScale; // example scale reduction
                 //gameObject.GetComponent<CircleCollider2D>().radius *= 0.5f;
