@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 29559dcc215c4ec4ea7db269443570a9
+guid: c4464138c280f8c49933caffbb9d19ff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6436194679782145604
-    second: paddle_0
-  - first:
-      213: -4622617378375830069
-    second: paddle_1
+      213: 4582780528372221347
+    second: bouncer_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -155,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: paddle_0
+      name: bouncer_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 11
-        width: 327
-        height: 77
+        x: 101
+        y: 97
+        width: 594
+        height: 601
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,30 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44e7ca9f5f4f15950800000000000000
-      internalID: 6436194679782145604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: paddle_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc57c5d6cf929dfb0800000000000000
-      internalID: -4622617378375830069
+      spriteID: 3a504352c9e499f30800000000000000
+      internalID: 4582780528372221347
       vertices: []
       indices: 
       edges: []
@@ -212,8 +187,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      paddle_0: 6436194679782145604
-      paddle_1: -4622617378375830069
+      bouncer_0: 4582780528372221347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
