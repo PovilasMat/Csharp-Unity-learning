@@ -4,8 +4,6 @@ using UnityEngine;
 /// </summary>
 public class Ball : MonoBehaviour
 {
-    float colliderRadius;
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -15,8 +13,6 @@ public class Ball : MonoBehaviour
             Mathf.Cos(angle * Mathf.Deg2Rad),
             Mathf.Sin(angle * Mathf.Deg2Rad));
         GetComponent<Rigidbody2D>().AddForce(moveDirection * ConfigurationUtils.BallImpulseForce, ForceMode2D.Impulse);
-
-        colliderRadius = GetComponent<CircleCollider2D>().radius;
     }
 
     // Update is called once per frame
@@ -27,7 +23,11 @@ public class Ball : MonoBehaviour
 
     public void SetDirection(Vector2 direction)
     {
-        GetComponent<Rigidbody2D>().linearVelocity = direction * ConfigurationUtils.BallImpulseForce;
+        //GetComponent<Rigidbody2D>().linearVelocity = direction * ConfigurationUtils.BallImpulseForce;
+        // get current rigidbody speed
+        Rigidbody2D rb2d = GetComponent<Rigidbody2D>();
+        float speed = rb2d.velocity.magnitude;
+        rb2d.velocity = direction * speed;
     }
 
 

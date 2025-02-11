@@ -18,18 +18,16 @@ public class Paddle : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
-        Vector2 position = rb2d.position;
-        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+
+        float horizontalInput = Input.GetAxis("Horizontal");
+        if (horizontalInput != 0)
         {
-            position.x -= ConfigurationUtils.PaddleMoveUnitsPerSecond * Time.fixedDeltaTime;
+            Vector2 position = rb2d.position;
+            position.x += horizontalInput * ConfigurationUtils.PaddleMoveUnitsPerSecond *
+                Time.deltaTime;
+            position.x = CalculateClampedX(position.x);
+            rb2d.MovePosition(position);
         }
-        else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
-        {
-            position.x += ConfigurationUtils.PaddleMoveUnitsPerSecond * Time.fixedDeltaTime;
-        }
-        position.x = CalculateClampedX(position.x);
-        rb2d.MovePosition(position);
     }
 
     float CalculateClampedX(float possibleX)
@@ -63,18 +61,13 @@ public class Paddle : MonoBehaviour
         }
     }
 
-    bool TopCollisionCheck(Collision2D coll)
+    bool TopCollision(Collision2D coll)
     {
+        const float tolerance = 0.05f;
+
+        // on top collisions, both contact points are at the same y location
         ContactPoint2D[] contacts = new ContactPoint2D[2];
         coll.GetContacts(contacts);
-
-        foreach (var contact in contacts)
-        {
-            if (contact.point.y > transform.position.y)
-            {
-                return true;
-            }
-        }
-        return false;
+        return Mathf.Abs(contacts[0].point.y - contacts[1].point.y) < tolerance;
     }
 }
