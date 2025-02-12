@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\bin\Debug\net8.0\66_CSVs_for_Me.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\bin\Debug\net8.0\66_CSVs_for_Me.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\bin\Debug\net8.0\66_CSVs_for_Me.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\bin\Debug\net8.0\66_CSVs_for_Me.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\bin\Debug\net8.0\66_CSVs_for_Me.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\refint\66_CSVs_for_Me.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\66_CSVs_for_Me.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\66_CSVs_for_Me\66_CSVs_for_Me\obj\Debug\net8.0\ref\66_CSVs_for_Me.dll

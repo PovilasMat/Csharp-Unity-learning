@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "66_CSVs_for_Me/1.0.0": {
+        "runtime": {
+          "66_CSVs_for_Me.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "66_CSVs_for_Me/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
