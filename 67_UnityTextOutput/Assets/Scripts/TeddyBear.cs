@@ -12,6 +12,9 @@ public class TeddyBear : MonoBehaviour
     
     int health = 100;
 
+    // scoring support
+    const int BearPoints = 10;
+
     /// <summary>
     /// Take damage on collision with fish
     /// </summary>
@@ -28,6 +31,11 @@ public class TeddyBear : MonoBehaviour
             // check for death
             if (health <= 0)
             {
+                // update score
+                HUD hud = GameObject.FindGameObjectWithTag("HUD").GetComponent<HUD>();
+                hud.AddPoints(BearPoints);
+
+                // destroy teddy bear
                 Instantiate(prefabExplosion, transform.position, 
                     Quaternion.identity);
                 Destroy(gameObject);
