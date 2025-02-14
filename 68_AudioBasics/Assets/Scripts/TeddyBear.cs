@@ -7,12 +7,14 @@ using UnityEngine;
 /// </summary>
 public class TeddyBear : MonoBehaviour
 {
+    AudioSource audioSource;
+
     /// <summary>
 	/// Start is called before the first frame update
 	/// </summary>	
     void Start()
     {
-
+        audioSource = GetComponent<AudioSource>();
     }
 
     /// <summary>
@@ -20,6 +22,6 @@ public class TeddyBear : MonoBehaviour
     /// </summary>
     void OnMouseEnter()
     {
-
+        audioSource.Play();
     }
 }
