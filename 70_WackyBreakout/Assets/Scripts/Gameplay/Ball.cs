@@ -42,8 +42,8 @@ public class Ball : MonoBehaviour
     {
         // get current rigidbody speed
         Rigidbody2D rb2d = GetComponent<Rigidbody2D>();
-        float speed = rb2d.velocity.magnitude;
-        rb2d.velocity = direction * speed;
+        float speed = rb2d.linearVelocity.magnitude;
+        rb2d.linearVelocity = direction * speed;
     }
 
     #endregion
