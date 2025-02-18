@@ -6,6 +6,11 @@ public class BallSpawner : MonoBehaviour
 
     void Awake()
     {
+        SpawnBall();
+    }
+
+    public void SpawnBall()
+    {
         if (ballPrefab == null)
         {
             Debug.LogError("Ball prefab is not assigned.");
