@@ -24,7 +24,7 @@ public static class ConfigurationUtils
     /// <value>ball impulse force</value>
     public static float BallImpulseForce
     {
-        get { return 75; }
+        get { return 8; }
     }
 
     public static float ballDeathTimer
@@ -36,7 +36,15 @@ public static class ConfigurationUtils
     {
         get { return 1; }
     }
-    
+    public static float ballMaxSpawnTimer
+    {
+        get { return 10; }
+    }
+    public static float ballMinSpawnTimer
+    {
+        get { return 5; }
+    }
+
     #endregion
 
     /// <summary>
