@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ProgrammingAssignment4
 {
@@ -26,12 +27,34 @@ namespace ProgrammingAssignment4
 				// and the comment below. You can of
 				// course add more space between the
 				// comments as needed
+                Dictionary<char, int> charCount = new Dictionary<char, int>();
 
+                input = input.ToUpper();
 
+                foreach (char c in input)
+                {
+                    if (char.IsLetter(c))
+                    {
+                        if (charCount.ContainsKey(c))
+                        {
+                            charCount[c]++;
+                        }
+                        else
+                        {
+                            charCount[c] = 1;
+                        }
+                    }
+                }
 
-				// Don't add or modify any code below
-				// this comment
-				input = Console.ReadLine();
+                foreach (var item in charCount)
+                {
+                    Console.Write($"{item.Key}{item.Value} ");
+                }
+                Console.WriteLine();
+
+                // Don't add or modify any code below
+                // this comment
+                input = Console.ReadLine();
 			}
 		}
 
