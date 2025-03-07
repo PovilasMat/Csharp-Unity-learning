@@ -1,0 +1,15 @@
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\bin\Debug\net8.0\74_Exercise2_text.exe
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\bin\Debug\net8.0\74_Exercise2_text.deps.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\bin\Debug\net8.0\74_Exercise2_text.runtimeconfig.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\bin\Debug\net8.0\74_Exercise2_text.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\bin\Debug\net8.0\74_Exercise2_text.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.AssemblyInfoInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.AssemblyInfo.cs
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.csproj.CoreCompileInputs.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.sourcelink.json
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\refint\74_Exercise2_text.dll
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.pdb
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\74_Exercise2_text.genruntimeconfig.cache
+C:\Users\Povilas\Documents\GitHub\Csharp-Unity-learning\74_Exercise2_text\74_Exercise2_text\obj\Debug\net8.0\ref\74_Exercise2_text.dll
