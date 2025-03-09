@@ -7,13 +7,15 @@ using UnityEngine;
 /// </summary>
 public static class ConfigurationUtils
 {
+    private static ConfigurationData configurationData;
+
     /// <summary>
     /// Gets the teddy bear move units per second
     /// </summary>
     /// <value>teddy bear move units per second</value>
     public static float TeddyBearMoveUnitsPerSecond
     {
-        get { return 5; }
+        get { return configurationData.TeddyBearMoveUnitsPerSecond; }
     }
 
     /// <summary>
@@ -22,7 +24,7 @@ public static class ConfigurationUtils
     /// <value>cooldown seconds</value>
     public static float CooldownSeconds
     {
-        get { return 1; }    
+        get { return configurationData.CooldownSeconds; }
     }
 
     /// <summary>
@@ -30,6 +32,6 @@ public static class ConfigurationUtils
     /// </summary>
     public static void Initialize()
     {
-
+        configurationData = new ConfigurationData();
     }
 }
